@@ -1,5 +1,5 @@
 # E-Book Site
-A fully responsive and user-friendly E-Book website built with HTML, CSS, and JavaScript. This site allows users to browse, search, and read books online, offering a smooth and intuitive experience across various devices.
+A fully responsive and user-friendly E-Book website built with HTML, CSS. This site allows users to browse, search, and read books online, offering a smooth and intuitive experience across various devices.
 
 ## Features
 

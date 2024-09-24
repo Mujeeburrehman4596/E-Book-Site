@@ -1,0 +1,26 @@
+
+body {
+    background-color: #f8f9fa;
+}
+.navbar-brand {
+    font-weight: bold;
+}
+.hero-section {
+    background-image: url('https://source.unsplash.com/1600x600/?books');
+    background-size: cover;
+    background-position: center;
+    height: 60vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    text-align: center;
+}
+.hero-section h1 {
+    font-size: 4rem;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7);
+}
+.book-card img {
+    height: 250px;
+    object-fit: cover;
+}
